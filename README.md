@@ -1,10 +1,8 @@
-### Hi there! 👋
+<h1 align="center">Hi 👋, I'm Qing Chen</h1>
+<h3 align="center">A fresh master studying at UCAS-SIAT, China.</h3>
 
-- 🌱 I’m currently learning 3D human reconstruction, also interested in neural rendering.
-- 📫 How to reach me: chenq.scut@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qingcsai&show_icons=true" alt="qingcsai" /></p>
 
-Awesome! 3DVirtualTryOn repo was created 3 month ago and now has 4 stars.
-[![the 3DVirtualTryOn repo Stargazers over time](https://starchart.cc/Qingcsai/3DVirtualTryOn.svg)](https://starchart.cc/Qingcsai/3DVirtualTryOn)
 
 [^_^]: <Here are some ideas to get you started>
 
