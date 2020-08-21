@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning 3D human reconstruction, also interested in neural rendering.
 - 📫 How to reach me: chenq.scut@gmail.com
 
-😄Welcome to contact with me!
 
 [![the 3DVirtualTryOn repo Stargazers over time](https://starchart.cc/Qingcsai/3DVirtualTryOn.svg)](https://starchart.cc/Qingcsai/3DVirtualTryOn)
 
