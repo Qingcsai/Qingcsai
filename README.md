@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 3D human reconstruction, also interested in neural rendering.
 - 📫 How to reach me: chenq.scut@gmail.com
 
-Awesome! 3DVirtualTryOn repo was created 5 years ago and now has 4 stars.
+Awesome! 3DVirtualTryOn repo was created 3 month ago and now has 4 stars.
 [![the 3DVirtualTryOn repo Stargazers over time](https://starchart.cc/Qingcsai/3DVirtualTryOn.svg)](https://starchart.cc/Qingcsai/3DVirtualTryOn)
 
 [^_^]: <Here are some ideas to get you started>
