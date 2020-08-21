@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 3D human reconstruction, also interested in neural rendering.
 - 📫 How to reach me: chenq.scut@gmail.com
 
-😄Welcome to contact me!
+😄Welcome to contact with me!
 
 
 [^_^]: <Here are some ideas to get you started>
