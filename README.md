@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🌱 I’m currently learning 3D human reconstruction, also interested in neurual rendering.
+- 🌱 I’m currently learning 3D human reconstruction, also interested in neural rendering.
 - 📫 How to reach me: chenq.scut@gmail.com
 
 😄Welcome to contact me!
