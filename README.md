@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Qing Chen</h1>
 <h3 align="center">A fresh master studying at UCAS-SIAT.</h3>
 
-- 🌱 I’m currently learning **learning-based 3D Human reconstruction method.**
+- 🌱 I’m currently working on **learning-based 3D Human reconstruction method.**
 
-- 📫 How to reach me: **chenq.scut@gmail.com**
+- 📫 How to reach me **chenq.scut@gmail.com**
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qingcsai&show_icons=true" alt="qingcsai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qingcsai&show_icons=true" alt="qingcsai" /></p>
+
 
 
 [^_^]: <Here are some ideas to get you started>
