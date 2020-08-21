@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+
+- 🌱 I’m currently learning 3D human reconstruction, also interested in neurual rendering.
+- 📫 How to reach me: chenq.scut@gmail.com
+
+😄Welcome to contact me!
+
+
+[^_^]: <Here are some ideas to get you started>
 
 <!--
-**Qingcsai/Qingcsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  
 -->
