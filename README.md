@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **learning-based 3D Human reconstruction method.**
 
-- 📫 How to reach me **chenq.scut@gmail.com**
+- 📫 How to reach me: **chenq.scut@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qingcsai&show_icons=true" alt="qingcsai" /></p>
 
