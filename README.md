@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qing Chen</h1>
 <h3 align="center">A fresh master studying at UCAS-SIAT.</h3>
 
-- 🌱 I’m currently working on **NeRF + GAN based generation method**
+- 🌱 I’m currently working on Implicit Neural Representation, espacially in GANs based generation method
 
 - 📫 How to reach me: **chenq.scut@gmail.com**
 
