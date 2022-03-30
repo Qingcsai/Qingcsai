@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Qing Chen</h1>
 <h3 align="center">A fresh master studying at UCAS-SIAT.</h3>
 
-- 🌱 I’m currently working on Implicit Neural Representation, espacially in GANs based generation method
+<!-- - 🌱 I’m currently working on Implicit Neural Representation, espacially in GANs based generation method -->
 
-- 📫 How to reach me: **chenq.scut@gmail.com**
+<!-- - 📫 How to reach me: **chenq.scut@gmail.com** -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qingcsai&show_icons=true" alt="qingcsai" /></p>
 
