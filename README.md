@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Qing Chen</h1>
+<h1 align="center">Hi 👋, I'm Qing Chen.</h1>
 <h3 align="center">A second-year master studying at UCAS-SIAT.</h3>
 
 <!-- - 🌱 I’m currently working on Implicit Neural Representation, espacially in GANs based generation method -->
